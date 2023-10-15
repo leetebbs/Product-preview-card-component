@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://product-preview-card-component-pi-three.vercel.app/)
+- Solution URL: [https://www.frontendmentor.io/solutions/product-preview-card-component-1fwPHIzFNf]
+- Live Site URL: [https://product-preview-card-component-pi-three.vercel.app/]
 
 ### Built with
 
